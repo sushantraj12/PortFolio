@@ -9,18 +9,25 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
-          Stack . With a background in IT, I strive to create impactful and
-          visually stunning Software solutions that leave a lasting impression.
+        Hello,I'm SUSHANT RAJ, a passionate and dedicated web developer with a keen interest in creating dynamic and user-friendly applications. 
+        With a solid background in  React-js, I'm constantly exploring new technologies to enhance my 
+        expertise and deliver innovative solutions.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+       <li>Haldia Institue of Technology, Haldia </li>  
+         2021 — 2025<br></br>
+        Bachelor of Technology in Information Technology.<br></br>
+        Secured 8.1 cgpa.
+        <br></br>
+        <br></br>
+        <li>A.N COLLEGE, PATNA</li> 
+         2018 — 2020<br></br>
+        Higher Secondary- BSEB<br></br>
+        Secured 80.4%
         </span>
         <br />
         <br />
@@ -28,10 +35,9 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
-          collaborator
+          <li> Proficient in C , C++ ,javascript</li> <li>Experienced with React-js ,Node-js</li> 
+          <li> Excellent problem-solving skills Effective communicator and
+          collaborator</li>
         </span>
         <br />
         <br />
@@ -39,11 +45,11 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+        Completed an internship at Tech Solutions Inc., where
+         I assisted in developing a web application and collaborated on debugging 
+         and testing software. Developed an e-commerce platform as an academic 
+         project using React and Node.js, implementing secure user authentication. 
+         Volunteered at Code for Good, contributing to the development of a community outreach platform and organizing coding workshops.
         </span>
         <br />
         <br />
@@ -51,8 +57,7 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+           200+ question solved on Leetcode
         </span>
         <br />
         <br />

@@ -4,7 +4,8 @@ import pic from "../../public/photo.avif";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
-import { IoLogoYoutube } from "react-icons/io";
+//import { IoLogoYoutube } from "react-icons/io";
+import { FaGithub } from "react-icons/fa";
 import { FaTelegram } from "react-icons/fa6";
 
 import { SiMongodb } from "react-icons/si";
@@ -37,11 +38,11 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            I've embarked on a continuous learning journey to expand my skills and knowledge in web development. 
+            Recently, I've been diving into advanced React patterns and exploring the depths of cloud computing. 
+            Participating in industry webinars and reading insightful tech books has been incredibly enriching. 
+            Each project and challenge has contributed to my growth, shaping me into a more proficient and adaptive developer. 
+            I'm committed to lifelong learning and excited about the opportunities ahead to enhance my expertise further.
             </p>
             <br />
             {/* social media icons */}
@@ -60,8 +61,8 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.youtube.com/" target="_blank">
-                      <IoLogoYoutube className="text-2xl cursor-pointer" />
+                    <a href= "https://github.com/dashboard" target="_blank">
+                      <FaGithub className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
